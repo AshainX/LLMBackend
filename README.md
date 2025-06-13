@@ -1,4 +1,4 @@
-# Simple LLM Implementation
+# LLM Implementation
 
 This repository contains a basic implementation of a Language Learning Model (LLM) using PyTorch. The implementation includes a transformer-based architecture with multi-head attention mechanisms.
 
